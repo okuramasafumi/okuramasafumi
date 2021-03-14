@@ -1,6 +1,6 @@
 # okuramasafumi
 
-Hi, my name OKURA Masafumi, a software developer based in Tokyo, Japan, focusing on Ruby/Rails.
+Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focusing on Ruby/Rails.
 
 # What I've beed working on recently
 
