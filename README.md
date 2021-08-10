@@ -1,5 +1,7 @@
 # okuramasafumi
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/okuramasafumi/contact-me.svg)](https://www.codementor.io/@okuramasafumi?refer=badge)
+
 Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focusing on Ruby/Rails.
 
 # What I've beed working on recently
