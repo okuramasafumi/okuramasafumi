@@ -21,4 +21,4 @@ Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focus
 
 If you're interested to see a full list of links, visit [my website](https://okuramasafumi.com).
 
-Find my tweets (sorry but most of them are in Japanese) on https://twitter.com/okuramasafumi.
+Talk with me in ruby.social! https://ruby.social/@okuramasafumi
