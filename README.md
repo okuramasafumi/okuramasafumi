@@ -1,4 +1,4 @@
-## okuramasafumi
+# okuramasafumi
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/okuramasafumi/contact-me.svg)](https://www.codementor.io/@okuramasafumi?refer=badge)
 
@@ -16,6 +16,14 @@ Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focus
 - I love teaching. I've been a coach in [Rails Girls](https://railsgirls.com) for more than 10 times and now I'm going to have coaching sessions for more advanced developers. If you're interested in learning Ruby and Rails, please contact me via the email on my profile.
 - I'd like to publish a book of my own. It'll be a book about Ruby on Rails and the basic of web technologies.
 - I think I need to learn a new programming language, but have not decided which one yet. Maybe Rust?
+
+## Hiring me
+
+Currently I'm looking for a job where i work for several hours per week.
+
+In this type of work I'll give some advices about Ruby/Rails, look through the codebase to find problems and suggest solutions, and so on. If our clutures go well together, we might increase the amount of work!
+
+Feel free to send me an email if you're interested.
 
 ## Links
 
