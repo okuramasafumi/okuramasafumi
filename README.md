@@ -7,7 +7,7 @@ Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focus
 ## What I've beed working on recently
 
 - A new documentation tool for Ruby called Niwa. It's highly pluggable and integrates many different libraries such as RBS and RSpec. It's in very early stage.
-- I've beening developing a JSON Serializer for Ruby named [`Alba`](https://github.com/okuramasafumi/alba) for a few years now. It generates JSON from any Ruby object pretty fast with nice DSLs.
+- I've beening developing a JSON serializer for Ruby named [`Alba`](https://github.com/okuramasafumi/alba) for a few years now. It generates JSON from any Ruby object pretty fast with nice DSLs.
 - I'm also organizing a large tech conference about Ruby on Rails called [`Kaigi on Rails`](https://kaigionrails.org). I'm the founder and chief organizer of the event. It started in 2020 and more than 1000 joined it in 2022.
 - I'm an organizer of a few Ruby meetups. I organize [`Grow.rb`](https://growrb.doorkeeper.jp/), [`Entaku.rb`](https://entakurb.doorkeeper.jp/) and [`Rubygems Code Reading Meetup`](https://rubygems-code-reading.connpass.com/). `Grow.rb` is a local meetup in Tokyo focusing on Ruby techniques but due to COVID-19 it's online from this spring. `Entaku.rb` is an online meetup from the beginning and is fosuing on discussions. `Rubygems Code Reading Meetup` is a meetup where we read the source code of famous ruby gems together.
 - I translated a book, [Mastering Vim](https://www.packtpub.com/application-development/mastering-vim) into Japanese.
