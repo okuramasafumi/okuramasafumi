@@ -20,6 +20,8 @@ Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focus
 
 ## Hiring me
 
+I have strong expertise on Ruby/Rails. I can also work on React projects with TypeScript as well.
+
 Currently I'm looking for a job where i work for several hours per week.
 
 In this type of work I'll give some advices about Ruby/Rails, look through the codebase to find problems and suggest solutions, and so on. If our clutures go well together, we might increase the amount of work!
