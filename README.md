@@ -15,7 +15,7 @@ Hi, my name is OKURA Masafumi, a software developer based in Tokyo, Japan, focus
 ## What I'm going to do in the future
 
 - I love teaching. I've been a coach in [Rails Girls](https://railsgirls.com) for more than 10 times and now I'm going to have coaching sessions for more advanced developers. If you're interested in learning Ruby and Rails, please contact me via the email on my profile.
-- I'd like to publish a book of my own. It'll be a book about Ruby on Rails and the basic of web technologies.
+- I'd like to publish a book of my own. It'll be a book about designing softwares in a sustainable way.
 - I think I need to learn a new programming language, but have not decided which one yet. Maybe Rust?
 
 ## Hiring me
